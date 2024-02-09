@@ -1,5 +1,7 @@
 GNGEO : A NeoGeo emulator for linux (and maybe some other unix)
 
+these codes forked from repository: https://code.google.com/archive/p/gngeo/
+
 稍微修改程式碼使得Ubuntu 22.04能正常編譯
 sudo dpkg --add-architecture i386
 sudo apt install gcc-multilib g++-multilib nasm  build-essential
